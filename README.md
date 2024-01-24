@@ -2,7 +2,7 @@
 
 ## Project Description 🎨
 
-To-Do-List is a project that combines the use of React and TypeScript to create a dynamic and interactive to-do list application. Along with this, the project demonstrates proficiency in software testing, specifically unit testing, by harnessing the powers of Jest, a popular open-source testing framework for JavaScript and TypeScript.
+To-Do-List is a project that combines the use of React and TypeScript to create a dynamic and interactive to-do list application. Along with this, the project demonstrates proficiency in software testing, specifically unit testing, by harnessing the powers of Jest, a popular open-source testing framework for JavaScript(React) and TypeScript.
 
 ## Project Set-up & Configuration  💻
 
@@ -40,4 +40,4 @@ We believe in the power of collective knowledge and we welcome contributions fro
 
 ## License 📜
 
-This project is licensed under the MIT License, which means you're free to modify, distribute, and use the code as you see fit. Just remember to attribute the original work to **Mahim Chaudhary and Ariel Tyson's GitHub** and keep the spirit of open-source development alive!
+This project is licensed under the MIT License, which means you're free to modify, distribute, and use the code as you see fit. Just remember to attribute the original work to **Ariel Tyson's GitHub** and keep the spirit of open-source development alive!
